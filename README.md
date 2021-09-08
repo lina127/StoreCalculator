@@ -6,7 +6,8 @@ Calculator stores up to 5 values and can be retrieved anytime and displays meani
 * Five operators (+, -, x, /, ^), log, ln, factorial, square, root, pi and percentage buttons are available.
 * Throw meaningful error message.
 * Stores value automatically and can retrieve anytime.
-* 
+
+
 #### GUI shown below:
 <p float="left">
   <img src="https://user-images.githubusercontent.com/89232984/132424859-bf4edacc-94e7-4eab-a366-fe70f961ee45.JPG" alt="calculator" width="40%" height="40%" />
